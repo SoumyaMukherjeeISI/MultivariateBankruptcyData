@@ -1,0 +1,3 @@
+Bankruptcy Data description:
+
+Annual financial data of financially sound firms (last column, indicator 1) and for the last two years before firms went bankrupt (last column, indicator 0). Data are in the form of ratios of cash flow to total debt (column 1), net income to total assets (column 2), current assets to total liabilities (column 3) and current assets to net sales (column 4).
